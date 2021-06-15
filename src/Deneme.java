@@ -7,7 +7,8 @@ public class Deneme {
 		// 3. Branch - Hamza - 05:14
 		// 4. Branch - Sibel - 10:20
 		// 5. Branch Berna
-		// 6. Branch Berna
+		// 6. Branch Berna Dogru 
+		
 		
 		
 	}
