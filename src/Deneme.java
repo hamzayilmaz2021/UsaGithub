@@ -6,7 +6,11 @@ public class Deneme {
 		// 2.Branch - Hamza - 05:00
 		// 3. Branch - Hamza - 05:14
 		// 4. Branch - Sibel - 10:20
-        // 5. Branch - Aysegul -10:29
+		// 5. Branch Berna
+		// 6. Branch Berna
+        //7. Branch Aysegul
+		
+		
 	}
 
 }
